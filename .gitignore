@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Xcode user data & local build output
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+/DerivedData/
+/build/
+Il2CppTempDirArtifacts/
